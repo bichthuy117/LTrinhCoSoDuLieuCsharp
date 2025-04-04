@@ -1,0 +1,37 @@
+D:\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+D:\PresentationLayer\bin\Debug\PresentationLayer.exe
+D:\PresentationLayer\bin\Debug\PresentationLayer.pdb
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+D:\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+C:\Users\admin\Downloads\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.CoffeeShop.resources
+C:\Users\admin\Downloads\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Login.resources
+C:\Users\admin\Downloads\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\admin\Downloads\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\admin\Downloads\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\admin\Downloads\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\admin\Downloads\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\admin\Downloads\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\admin\Downloads\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\admin\Downloads\PresentationLayer\PresentationLayer\obj\Debug\PresentationLayer.SupplierFolder.frmSupplier.resources
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\bin\Debug\PresentationLayer.exe.config
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\bin\Debug\PresentationLayer.exe
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\bin\Debug\PresentationLayer.pdb
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\PresentationLayer\obj\Debug\PresentationLayer.CoffeeShop.resources
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\PresentationLayer\obj\Debug\PresentationLayer.Login.resources
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\PresentationLayer\obj\Debug\PresentationLayer.SupplierFolder.frmSupplier.resources
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\PresentationLayer\obj\Debug\Presenta.9C561136.Up2Date
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\PresentationLayer\obj\Debug\PresentationLayer.exe
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\PresentationLayer\obj\Debug\PresentationLayer.pdb

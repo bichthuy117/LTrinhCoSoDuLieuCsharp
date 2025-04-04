@@ -1,0 +1,21 @@
+D:\PresentationLayer\bin\Debug\BusinessLayer.dll
+D:\PresentationLayer\bin\Debug\BusinessLayer.pdb
+D:\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\admin\Downloads\PresentationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\admin\Downloads\PresentationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\admin\Downloads\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\admin\Downloads\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\admin\Downloads\PresentationLayer\BusinessLayer\obj\Debug\BusinessLayer.pdb
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\bin\Debug\BusinessLayer.dll
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\bin\Debug\BusinessLayer.pdb
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\BusinessLayer\obj\Debug\Business.EA331CBA.Up2Date
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+E:\3nd's Year\Ltrinh CSDL_ThucHanh\CoffeeShopManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
